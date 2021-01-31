@@ -2,7 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edmontdants&show_icons=true&theme=onedark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=high-fidelity-generative-compression)](https://github.com/edmontdants/high-fidelity-generative-compression)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=generative-compression)](https://github.com/Justin-Tan/generative-compression)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Justin-Tan&repo=generative-compression)](https://github.com/Justin-Tan/generative-compression)
 
 
 <!--

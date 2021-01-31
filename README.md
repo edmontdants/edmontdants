@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edmontdants&show_icons=true&theme=onedark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=high-fidelity-generative-compression)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=generative-compression)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=high-fidelity-generative-compression)](https://github.com/edmontdants/high-fidelity-generative-compression)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=generative-compression)](https://github.com/edmontdants/generative-compression)
+
+
 <!--
 **edmontdants/edmontdants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

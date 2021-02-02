@@ -1,21 +1,16 @@
 ### Hi there 👋
 
 <html>
-  
   <head>
-  
-  <style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
-  
+    <style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
   </head>
-  
   <body>
-
-<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-  
+    <iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
   </body>
-  
 </html>
 
+
+![gif from https://chromedino.com](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edmontdants&show_icons=true&theme=onedark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=high-fidelity-generative-compression)](https://github.com/edmontdants/high-fidelity-generative-compression)

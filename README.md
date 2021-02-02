@@ -1,6 +1,19 @@
 ### Hi there 👋
 
-https://chromedino.com/
+<html>
+  
+  <head>
+  </head>
+  
+  <body>
+  <iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
+<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
+  </body>
+ 
+
+  
+</html>
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edmontdants&show_icons=true&theme=onedark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=high-fidelity-generative-compression)](https://github.com/edmontdants/high-fidelity-generative-compression)

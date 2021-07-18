@@ -3,7 +3,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edmontdants&show_icons=true&theme=onedark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=high-fidelity-generative-compression)](https://github.com/edmontdants/high-fidelity-generative-compression)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=generative-compression)](https://github.com/edmontdants/generative-compression)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=RNN-LSTM-GRU_Tensorflow-Hybrid-Model-Residual-GRU-ResNet-Toderici2017-CVPR)](https://github.com/edmontdants/RNN-LSTM-GRU_Tensorflow-Hybrid-Model-Residual-GRU-ResNet-Toderici2017-CVPR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=RNN-LSTM-GRU_Tensorflow-HybridModel-ResidualGRUResNet-Toderici17-CVPR)](https://github.com/edmontdants/RNN-LSTM-GRU_Tensorflow-HybridModel-ResidualGRUResNet-Toderici17-CVPR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=pytorch-image-comp-rnn)](https://github.com/edmontdants/pytorch-image-comp-rnn)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=learned-image-compression-using-gan)](https://github.com/edmontdants/learned-image-compression-using-gan)
 

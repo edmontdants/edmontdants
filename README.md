@@ -6,6 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=RNN-LSTM-GRU_Tensorflow-HybridModel-ResidualGRUResNet-Toderici17-CVPR)](https://github.com/edmontdants/RNN-LSTM-GRU_Tensorflow-HybridModel-ResidualGRUResNet-Toderici17-CVPR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=pytorch-image-comp-rnn)](https://github.com/edmontdants/pytorch-image-comp-rnn)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=learned-image-compression-using-gan)](https://github.com/edmontdants/learned-image-compression-using-gan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=Smart-Tab-Organizer-Chrome-Extension)](https://github.com/edmontdants/Smart-Tab-Organizer-Chrome-Extension)
 
 <!--
 **edmontdants/edmontdants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

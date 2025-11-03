@@ -5,8 +5,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=generative-compression)](https://github.com/edmontdants/generative-compression)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=RNN-LSTM-GRU_Tensorflow-HybridModel-ResidualGRUResNet-Toderici17-CVPR)](https://github.com/edmontdants/RNN-LSTM-GRU_Tensorflow-HybridModel-ResidualGRUResNet-Toderici17-CVPR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=pytorch-image-comp-rnn)](https://github.com/edmontdants/pytorch-image-comp-rnn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=learned-image-compression-using-gan)](https://github.com/edmontdants/learned-image-compression-using-gan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=Simple-Tab-Organizer-Chrome-Extension)](https://github.com/edmontdants/Simple-Tab-Organizer-Chrome-Extension)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edmontdants&repo=learned-image-compression-using-gan)](https://github.com/edmontdants/learned-image-compression-using-gan)
 
 
 <!--

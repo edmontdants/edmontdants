@@ -2,7 +2,7 @@
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/stats-dark.svg"><img src="assets/cards/stats-light.svg" alt="GitHub stats" width="49%"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/languages-dark.svg"><img src="assets/cards/languages-light.svg" alt="Main languages" width="49%"></picture></p>
 
-Contact: [moaz.alomary98@gmail.com](mailto:moaz.alomary98@gmail.com)
+Contact: [moaaz.ibrahim.alomary@gmail.com](mailto:moaaz.ibrahim.alomary@gmail.com)
 
 ## Selected work
 
